@@ -11,4 +11,5 @@
 1. Install the latest version of PostGres depending on your OS on the official website
 2. Install the extension
 3. Take note of the following while installing: the port number, the username and the password.
-4. The database credentials are in the .txt file
+4. pip install pyscopg2
+5. The database credentials are in the .txt file
